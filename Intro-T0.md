@@ -29,10 +29,7 @@
 
 	Logo: 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Intro-T00.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Intro-T00.png "image_tooltip")
+![alt_text](https://github.com/jinbe-808/OATs/blob/master/sentry_logo.png)
 
 
 **Task:** Assign each team member a professional job title based on their skills listed on their IT résumés.
