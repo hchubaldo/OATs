@@ -1,22 +1,3 @@
-<!----- Conversion time: 1.032 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β17
-* Mon Jul 08 2019 19:49:12 GMT-0700 (PDT)
-* Source doc: https://docs.google.com/a/unomaha.edu/open?id=1VBbRGtDifzQBpfHf12N6KwP1zGusyDJ6NnGVAUPVWlI
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
------>
-
-
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
@@ -74,6 +55,3 @@ Yusuf Yusuf - CFO
 [https://github.com/jinbe-808/OATs](https://github.com/jinbe-808/OATs)
 
 **Deliverable:** The creation of a GitHub repository for the project. Project file(s) containing documents listing team name, team identifier image, team members, job titles, current level leader, and communication plan. All members of the group need to contribute to the repository.
-
-
-<!-- Docs to Markdown version 1.0β17 -->
