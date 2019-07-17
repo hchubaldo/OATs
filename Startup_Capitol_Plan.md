@@ -25,10 +25,10 @@ We can typically deduct one-time expenses for tax purpose at the end the end of 
 - Lawyer and accountant
 
 **Self-funding**
-Our startup funding comes from bootstrapping, we the owners of the business need to tap into our own financial resources to support our business. self-funding involves using our own savings, turning to family and friends or tapping into our own 401ks. The advantage of self-funding is we can control the business completely but bear the risk alone. To avoid the trap of failure and facing expensive penalties for tapping into our 401ks, we need a financial adviser. 
+          Our startup funding comes from bootstrapping, we the owners of the business need to tap into our own financial resources to support our business. self-funding involves using our own savings, turning to family and friends or tapping into our own 401ks. The advantage of self-funding is we can control the business completely but bear the risk alone. To avoid the trap of failure and facing expensive penalties for tapping into our 401ks, we need a financial adviser. 
 
 **Business loans**
-The best option available is to apply for the government loan program, this is because banks and financial institutions loan require assets to act as a guarantee for startup and expansion of businesses, which Sentry, as of now, does not have. The good news is, government loan finance Sentry directly, in addition, government loan provide guarantee for additional finances. 
+          The best option available is to apply for the government loan program, this is because banks and financial institutions loan require assets to act as a guarantee for startup and expansion of businesses, which Sentry, as of now, does not have. The good news is, government loan finance Sentry directly, in addition, government loan provide guarantee for additional finances. 
           Our loan package needs to be discussed with the participating lender/ either Wheels Fargo or First national Bank, whichever qualifies for a government guarantee. This guarantee portion represent the amount the government will repay in case sentry fail to meet their financial obligation to the bank in question. The likelihood of securing a loan from financial institutions is increased by the guarantee from the government.
   
 
