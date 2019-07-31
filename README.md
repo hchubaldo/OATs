@@ -8,13 +8,15 @@ Google Doc version of groupProjectStart.
   <tr>
     <td rowspan="2">
       <b>Problem</b>
-      <p>Top 3 Problems</p>
-      <p>Top 3 Problems</p>
-      <p>Top 3 problems</p>
+      <p>Video Game Piracy</p>
+      <p>Custommer Information Safety</p>
+      <p>Cause of the Security Breach</p>
     </td>
     <td>
       <b>Solution</b>
-      <p>Top 3 features</p>
+      <p>Hard to Crack Protection</p>
+      <p>Protection Integrated into Platform for Customer Informatoin Safety</p>
+      <p>24/7 Monitoring and Support</p>
     </td>
     <td rowspan="2" colspan="2">
       <b>Unique Value Proposition</b>
