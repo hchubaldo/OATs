@@ -1,5 +1,4 @@
-T3
-
+# Key Activities and Resources
 Select team leader: **Mariana Perez**
  
 Our service is a software that can be implemented into their platforms. The product is digital and we will also be providing both a physical services (mentioned in T2). Piracy is a major dilemma that a lot of  online platforms face so stopping that issue is our number one priority. Another problem is the ability to detect where the breach is coming from. We can help multiple companies simultaneously if we can find the origin of the attack and apprehend the people behind it, to save our other clients from potential attacks as well. Since we are making the platform that integrates into their platform, everything we see (except for our algorithms and coding) they will be able to see. Obviously, any errors in our platform, we will handle ourselves since we want to provide a product that is easy to operate. If they feel comfortable enough to handle the platform theirselves they will be able to, but we will also offer services to maintain it for them (included in a more expensive package). Since we made the product and know it so well, we would hope that they would like for us to maintain it for them as well. We allow flexibility to revamp their existing platform by enabling them to handle the implemenation of our product into their their new platform or we can handle that for them.
