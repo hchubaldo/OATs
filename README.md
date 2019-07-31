@@ -9,6 +9,8 @@ Google Doc version of groupProjectStart.
     <td rowspan="2">
       <b>Problem</b>
       <p>Top 3 Problems</p>
+      <p>Top 3 Problems</p>
+      <p>Top 3 problems</p>
     </td>
     <td>
       <b>Solution</b>
