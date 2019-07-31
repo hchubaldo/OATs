@@ -3,17 +3,17 @@
 **Team Leader: Yusuf Yusuf**
 
 
-| Start up funds |
-|:--------------:|
-| Legal Fees for Advice: 1,000 |
-| Inital hardware: 3,000 |
+| Start up funds | Costs |
+|:--------------:|:-----:|
+| Legal Fees for Advice | 1,000 |
+| Inital hardware | 3,000 |
 
-| Ongoing Operations |
-| :---------------: |
-| Employee Wages: 25,000 |
-| Server Maintenance: 1,500 |
-| Traffic Monitoring: 250 |
-| Website Upkeep: 250 | 
+| Ongoing Operations | Costs |
+| :----------------: |:-----:|
+| Employee Wages | 25,000 |
+| Server Maintenance | 1,500 |
+| Traffic Monitoring | 250 |
+| Website Upkeep | 250 | 
 
 | Cost of providing goods |
 | :---------------------: |
@@ -38,21 +38,21 @@ __Calculating our startup costs help us to:__
 
 __Our financing options are only handful. The company need finance for the following:__
 
-| One-time Expenses|
-| :----------------: |
-| Licenses and Permits: 300 | 
-| Running Up Tests: 500 |
-| Equipment and Supplies: 8,000 | 
-| Making a Website: 5,000 | 
+| One-time Expenses| Costs |
+| :--------------: |:-----:|
+| Licenses and Permits | 300 | 
+| Running Up Tests | 500 |
+| Equipment and Supplies | 8,000 | 
+| Making a Website | 5,000 | 
 
-| Recurring Expenditure/Monthly Expenses |
-| :---------------------------------------: |
-| Hiring Software Engineers and Developers: 20,000 |
-| Finding Host Servers: 20 | 
-| Advertising and Marketing: 5,000 |
+| Recurring Expenditure/Monthly Expenses | Costs |
+| :------------------------------------: |:-----:|
+| Hiring Software Engineers and Developers | 20,000 |
+| Finding Host Servers | 20 | 
+| Advertising and Marketing | 5,000 |
 | Communications |
-| Lawyers: 10,000 | 
-| Accountants: 10,000 | 
+| Lawyers | 10,000 | 
+| Accountants | 10,000 | 
 
 Most support activities are also tax deductible. 
 
