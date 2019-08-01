@@ -9,7 +9,7 @@ Business partners basically are commercial entities with which Sentry has some f
   - cell phone and internet provider- Verizon offers the best cell phone plans. We will also bundle the cell phone plan with their internet options when available.
   - integration and maintenance and application service providers- Until we build our team with qualified individuals, a lot of the work will be outsourced to freelance personnel. Hiring freelance workings will keep costs lower than hiring personnel and paying them to remain idle. 
 
-Serevices and Business Partners
+Services and Business Partners
 
   - The cloud service providers will be able to provide an avenue for our clients to use our services and provide more computing power when needed for any models that we might have to do or when handling big data.
   - Since we are building some servers in house for more private information, partnering with hardware companies would be a large benefit since they would be providing access to a valuable and reliable resource.
