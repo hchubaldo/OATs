@@ -4,11 +4,10 @@
 Sentry Business Partners
 
 Business partners basically are commercial entities with which Sentry has some form of alliance most probably based on contractual relationship. The partner in most cases provide services that allow Sentry to execute its operations swiftly. 
-  - cloud providers
-  - hardware providers
-  - cell phone providers
-  - integration and maintenance
-  - application service providers
+  - cloud providers- Our in-house cloud provider will be Kamatera. They provide a very secure cloud service and great around-the-clock support for our business. We will use Amazon Web Service as our primary cloud for servicing clients as it similar value as Kamaatera. We will also accomodate for any providers used by our client, but will offer Amazon Web Service as a default. We will use 2 cloud providers to ensure our in-house materials remain secure and as a back-up to Amazon Web Service. 
+  - hardware providers- We will purchase the majority of our hardware from HP. HP provides very reliable equipment which will help ensure that our business continue running smoothly. 
+  - cell phone and internet provider- Verizon offers the best cell phone plans. We will also bundle the cell phone plan with their internet options when available.
+  - integration and maintenance and application service providers- Until we build our team with qualified individuals, a lot of the work will be outsourced to freelance personnel. Hiring freelance workings will keep costs lower than hiring personnel and paying them to remain idle. 
 
 Serevices and Business Partners
 
