@@ -27,7 +27,8 @@ Welcome to our launch page! Please click the links at the bottom to get more ins
     </td>
     <td rowspan="2">
       <b>Customer Segments</b>
-      <p>We will target both small and large developers that make indie, AA, and AAA titles</p>
+      <p>We will target both small and large developers that make indie, AA, and AAA titles
+      as well as the platforms that host the games.</p>
     </td>
   </tr>
   <tr>
