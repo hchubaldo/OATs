@@ -63,11 +63,11 @@ Welcome to our launch page! Please click the links at the bottom to get more ins
   </tr>
 </table>
 
-[Introduction](https://github.com/jinbe-808/OATs/blob/master/Intro-T0.md)
-[Proposal](https://github.com/jinbe-808/OATs/blob/master/Proposal.md)
-[Channels & Customers](https://github.com/jinbe-808/OATs/blob/master/Channels_Customers.md)
-[Key Activities & Resources](https://github.com/jinbe-808/OATs/blob/master/Activities_Resources.md)
-[Key Partners](https://github.com/jinbe-808/OATs/blob/master/KeyPartners.md)
-[Financial Plan](https://github.com/jinbe-808/OATs/blob/master/FinancialPlan.md)
-
-[GitHub Repository](https://github.com/jinbe-808/OATs)
+**Links to to get more details**
+- [Introduction](https://github.com/jinbe-808/OATs/blob/master/Intro-T0.md)
+- [Proposal](https://github.com/jinbe-808/OATs/blob/master/Proposal.md)
+- [Channels & Customers](https://github.com/jinbe-808/OATs/blob/master/Channels_Customers.md)
+- [Key Activities & Resources](https://github.com/jinbe-808/OATs/blob/master/Activities_Resources.md)
+- [Key Partners](https://github.com/jinbe-808/OATs/blob/master/KeyPartners.md)
+- [Financial Plan](https://github.com/jinbe-808/OATs/blob/master/FinancialPlan.md)
+- [GitHub Repository](https://github.com/jinbe-808/OATs)
