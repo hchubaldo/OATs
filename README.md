@@ -1,8 +1,5 @@
-# OATs
-This is the repository for our OATs project! Please place all files that you think might be relevant to our project here (i.e. images, graphs, etc).
-
-Google Doc version of groupProjectStart.
-<https://docs.google.com/document/d/1m3v4Va8OCNQwRDVvcRFQzd1ALMW7_IxjtKLuyUXKAyY/edit?usp=sharing>
+# Sentry
+Welcome to our launch page! Please click the links at the bottom to get more insight into our startup business model!
 
 <table>
   <tr>
@@ -20,49 +17,57 @@ Google Doc version of groupProjectStart.
     </td>
     <td rowspan="2" colspan="2">
       <b>Unique Value Proposition</b>
-      <p>Single, clear, <br>
-      compelling message <br>
-      that states why you <br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
-      <br><br><br><br><br>
+      <p>The hard work that goes into developing video games is something that should be protected.</p>
+      <p>The customers that play these games should not have to worry about their information.</p>
+      <p>We offer protection to both sides of the spectrum without impacting either party.</p>
     </td>
     <td>
       <b>Unfair Advantage</b>
-      <p>Can't be easily <br>
-      copied or bought</p>
+      <p>Complex cryptography for video games, making it hard to pirate</p>
     </td>
     <td rowspan="2">
       <b>Customer Segments</b>
-      <p>Target customers</p>
+      <p>We will target both small and large developers that make indie, AA, and AAA titles</p>
     </td>
   </tr>
   <tr>
     <td>
       <b>Key Metrics</b>
-      <p>Key activities you measure</p>
+      <p>Need to look at past video game piracy to learn from</p>
+      <p>Find great cryptographers and developers/engineers</p>
+      <p>Find ways to monitor systems efficiently</p>
+      <p>Able to bill appropriately and have competitive prices</p>
     </td>
     <td>
       <b>Channels</b>
-      <p>Path to customers</p>
+      <p>Can be contacted directly through platform</p>
+      <p>Employees will be provided cell phones/plans for work</p>
+      <p>Can be reached through website</p>
     </td>
   </tr>
   <tr>
     <td colspan="3">
       <b>Cost Structure</b>
-      <p>Customer Acquisition Costs <br>
-      Distribution Costs <br>
-      Hosting <br>
-      People, etc.</p>
+      <p>Employees<br>
+      Software maintenance<br>
+      Hardware<br>
+      Server Upkeep<br>
+      Marketing<br>
+      Travel<br>
     </td>
     <td colspan="3">
       <b>Revenue Streams</b>
-      <p>Revenue Model <br>
-      Life Time Value <br>
-      Revenue <br>
-      Gross Margin</p>
+      <p>Subscription based model<br>
+      Different packages offered</p>
     </td>
   </tr>
 </table>
 
+[Introduction](https://github.com/jinbe-808/OATs/blob/master/Intro-T0.md)
+[Proposal](https://github.com/jinbe-808/OATs/blob/master/Proposal.md)
+[Channels & Customers](https://github.com/jinbe-808/OATs/blob/master/Channels_Customers.md)
+[Key Activities & Resources](https://github.com/jinbe-808/OATs/blob/master/Activities_Resources.md)
+[Key Partners](https://github.com/jinbe-808/OATs/blob/master/KeyPartners.md)
+[Financial Plan](https://github.com/jinbe-808/OATs/blob/master/FinancialPlan.md)
+
+[GitHub Repository](https://github.com/jinbe-808/OATs)
