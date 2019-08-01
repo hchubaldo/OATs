@@ -8,6 +8,7 @@ Since we are making the software that integrates into their platform, everything
 Considering that we made the product and know it so well, we would hope that they would like for us to maintain it for them as well. We allow flexibility to revamp their existing platform by enabling them to handle the implemenation of our product into their their new platform or we can handle that for them.
 
 **Key Metrics**
+
 People and Location:
 - We need a team of software developers and engineers to create the product as well as the idea of what and how the software would be implemented.
 - Network engineers are important as to be able to view web traffic as well as maintaining the connection and servers.
