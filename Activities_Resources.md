@@ -1,6 +1,8 @@
 # Key Activities and Resources
 **Team Leader: Mariana Perez**
  
+ **Key Activities**
+ 
 **People and Location:**
 - We need a team of software developers and engineers to create the product as well as the idea of what and how the software would be implemented.
 - Network engineers are important as to be able to view web traffic as well as maintaining the connection and servers.
@@ -23,6 +25,8 @@
 - A website will also be needed to provide information (updates, new products, etc) to new customers as well as existing customers.
 - We will use a .com domain for starters and as we grow into more countries we will acquire the appropiate top-level domain. 
 - We will obtain website hosting service from web.com because they will keep costs the low and will outsource our identity software to Auth0 until we can build our own. Auth0 offers a very secure cloud and credentialing service that will keep our data and secure.
+
+**Key Resources**
 
 Our service is a software that can be implemented into their platforms. The product is digital and we will also be providing physical services (mentioned in T2). Piracy is a major dilemma that a lot of online platforms face so stopping that issue is our number one priority. Another problem is the ability to detect where the breach is coming from. We can help multiple companies simultaneously if we can find the origin of the attack and apprehend the people behind it, to save our other clients from potential attacks as well.
 
