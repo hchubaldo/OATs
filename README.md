@@ -64,7 +64,7 @@ Welcome to our launch page! Please click the links at the bottom to get more ins
 </table>
 
 **Links to to get more details**
-- [Introduction](https://github.com/jinbe-808/OATs/blob/master/Intro-T0.md)
+- [Introduction](https://github.com/jinbe-808/OATs/blob/master/Introduction.md)
 - [Proposal](https://github.com/jinbe-808/OATs/blob/master/Proposal.md)
 - [Channels & Customers](https://github.com/jinbe-808/OATs/blob/master/Channels_Customers.md)
 - [Key Activities & Resources](https://github.com/jinbe-808/OATs/blob/master/Activities_Resources.md)
