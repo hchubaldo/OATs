@@ -1,8 +1,6 @@
 # Key Activities and Resources
 **Team Leader: Mariana Perez**
  
-**Key Metrics**
-
 **People and Location:**
 - We need a team of software developers and engineers to create the product as well as the idea of what and how the software would be implemented.
 - Network engineers are important as to be able to view web traffic as well as maintaining the connection and servers.
