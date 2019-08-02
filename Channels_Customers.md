@@ -1,6 +1,6 @@
 # Channels and Customers
 
-Team Leader:  **Mariana Perez**
+**Team Leader: Mariana Perez**
 
 Our customers would be the businesses themselves, it would be very difficult to connect to them through social media. Obviously being online, an attack can come at any point and we will be prepared to face them at any time of the day. Being able to respond quickly along with efficient tracking will put us ahead of the competition. Any data that we get will also be analyzed and will help us improve our product.
 
