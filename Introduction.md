@@ -1,3 +1,4 @@
+# Introduction
 **Team Leader: Mariana Perez**
 
 **Company Name: Sentry**
