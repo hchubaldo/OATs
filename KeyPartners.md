@@ -1,7 +1,5 @@
-
+# Key Partners
 **Team Leader: Joshua Davis**
-
-Sentry Business Partners
 
 Business partners basically are commercial entities with which Sentry has some form of alliance most probably based on contractual relationship. The partner in most cases provide services that allow Sentry to execute its operations swiftly. 
   - cloud providers- Our in-house cloud provider will be Kamatera. They provide a very secure cloud service and great around-the-clock support for our business. We will use Amazon Web Service as our primary cloud for servicing clients as it similar value as Kamaatera. We will also accomodate for any providers used by our client, but will offer Amazon Web Service as a default. We will use 2 cloud providers to ensure our in-house materials remain secure and as a back-up to Amazon Web Service. 
