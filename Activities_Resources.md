@@ -1,4 +1,4 @@
-# Key Metrics
+# Key Activities and Resources
 **Team Leader: Mariana Perez**
  
 Our service is a software that can be implemented into their platforms. The product is digital and we will also be providing physical services (mentioned in T2). Piracy is a major dilemma that a lot of online platforms face so stopping that issue is our number one priority. Another problem is the ability to detect where the breach is coming from. We can help multiple companies simultaneously if we can find the origin of the attack and apprehend the people behind it, to save our other clients from potential attacks as well.
