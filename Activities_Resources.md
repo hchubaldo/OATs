@@ -3,7 +3,7 @@
  
 **Key Metrics**
 
-People and Location:
+**People and Location:**
 - We need a team of software developers and engineers to create the product as well as the idea of what and how the software would be implemented.
 - Network engineers are important as to be able to view web traffic as well as maintaining the connection and servers.
 - Cryptographers are a major part of our team so we can develop a strong security team. 
@@ -11,13 +11,13 @@ People and Location:
 - All of this will require capital as well and the appropriate financial personnel to handle it.
 - We need to acquire information from our business partners as the system would be integrated into theirs and we would want it to be customized to fit their needs.
 
-Software:
+**Software:**
 - GitHub Enterpise for team communication on our programming projects. 
 - Terraform would be great as well so in case something goes wrong due to some bad code or accidental changes causing our software to break, we can roll back the changes and be able to see where the problem came from. 
 - Slack Enterprise will also be a valuable tool to have for meetings and updates. 
 - We will need to have the appropriate software to handle our human resources, administration and other support roles such as expenses and payroll. 
 
-Hardware:
+**Hardware:**
 - Our largest expense is providing reliable hardware for the programmer's needs and the hardware needed to build the servers and databases.
 - Since we will offer work remote, we will want our developers to have very reliable internet which is expensive and we will cover 50% of the cost.
 - For the employees that handle any problems that our customers might have, we will need to provide cell phones and plans so they can communicate on the go as well as other necessary tools.
