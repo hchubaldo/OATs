@@ -62,3 +62,11 @@ __Self-funding:__
 __Business loans:__
   The best option available is to apply for the government loan program, this is because banks and financial institutions loan require assets to act as a guarantee for startup and expansion of businesses, which Sentry, as of now, does not have. The good news is, a government loan will finance Sentry directly, in addition, government loan provide guarantee for additional finances.
 Our loan package needs to be discussed with the participating lender/ either Wells Fargo or First National Bank, whichever qualifies for a government guarantee. This guarantee portion represent the amount the government will repay in case sentry fail to meet their financial obligation to the bank in question. The likelihood of securing a loan from financial institutions is increased by the guarantee from the government.
+
+**Three Year Plan**
+
+|      | Year 1 | Year 2 | Year 3 |
+|:----:|:------:|:------:|:------:|
+| Cost | 500,000 | 480,000 | 480,000 |
+| Revenue | 480,000 | 660,000 | 1,000,000 |
+| Profit | -20,000 | 180,000 | 520,000 |
